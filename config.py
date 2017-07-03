@@ -1,4 +1,4 @@
 credentials = dict(
-    phone = 'YOUR_PHONE',
-    password = 'YOUR_PASSWORD',
+    phone = '5218118478492',
+    password = '5c+7Yr5pCvJVUtN45ty3A+QEVkE=',
 )
